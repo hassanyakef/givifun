@@ -6,7 +6,8 @@ import Register from "./components/auth/Register";
 import Navbar from "./components/layout/Navbar";
 import Login from "./components/auth/Login";
 import Dashboard from "./components/dashboard/Dashboard";
-import DonationPage from "./components/dashboard/DonationPage";
+import DonationPage from "./components/donation/DonationPage";
+import Footer from "./components/layout/Footer";
 
 const App = () => {
   return (
@@ -19,9 +20,10 @@ const App = () => {
             <Route exact path="/register" component={Register}/>
             <Route exact path="/login" component={Login}/>
             <Route exact path="/dashboard" component={Dashboard}/>
-            <Route exact path="/page/rackgivesback" component={DonationPage}/>
+            <Route exact path="/donation-page/rackgivesback" component={DonationPage}/>
           </Switch>
         </section>
+        <Footer/>
       </Fragment>
     </Router>
   );
