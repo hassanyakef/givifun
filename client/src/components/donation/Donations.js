@@ -13,8 +13,6 @@ const Donations = () => {
         <DonationCard/>
         <DonationCard/>
         <DonationCard/>
-        <DonationCard/>
-        <DonationCard/>
       </div>
     </Fragment>
   );
