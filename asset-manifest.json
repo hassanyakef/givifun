@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/givifun/static/css/main.53b8fbe7.chunk.css",
+    "main.js": "/givifun/static/js/main.fc02ca78.chunk.js",
+    "main.js.map": "/givifun/static/js/main.fc02ca78.chunk.js.map",
+    "runtime~main.js": "/givifun/static/js/runtime~main.65946410.js",
+    "runtime~main.js.map": "/givifun/static/js/runtime~main.65946410.js.map",
+    "static/js/2.4b7aeb55.chunk.js": "/givifun/static/js/2.4b7aeb55.chunk.js",
+    "static/js/2.4b7aeb55.chunk.js.map": "/givifun/static/js/2.4b7aeb55.chunk.js.map",
+    "index.html": "/givifun/index.html",
+    "precache-manifest.c664f51cb5a421845a36fbb1e83e26f7.js": "/givifun/precache-manifest.c664f51cb5a421845a36fbb1e83e26f7.js",
+    "service-worker.js": "/givifun/service-worker.js",
+    "static/css/main.53b8fbe7.chunk.css.map": "/givifun/static/css/main.53b8fbe7.chunk.css.map",
+    "static/media/App.css": "/givifun/static/media/donate.975de7ec.jpg"
+  }
+}
